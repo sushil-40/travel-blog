@@ -82,7 +82,7 @@ header ul li{
 }
 header ul li:hover{
     cursor: pointer;
-    background: red;
+    background: #0fd808;
     transform: scale(1.5);
 }
 /* <!-- hero section  --> */
